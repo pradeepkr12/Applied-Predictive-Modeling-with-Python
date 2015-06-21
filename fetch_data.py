@@ -18,9 +18,9 @@ APM_URL = ('http://cran.r-project.org/src/contrib/'
 APM_ARCHIVE = 'AppliedPredictiveModeling_1.1-6.tar.gz'
 APM_NAME = 'AppliedPredictiveModeling'
 
-CRT_URL = ('http://cran.r-project.org/src/contrib/caret_6.0-37.tar.gz')
-CRT_ARCHIVE = 'caret_6.0-37.tar.gz'
-CRT_NAME = 'Caret'
+CRT_URL = ('http://cran.r-project.org/src/contrib/caret_6.0-47.tar.gz')
+CRT_ARCHIVE = 'caret_6.0-47.tar.gz'
+CRT_NAME = 'caret'
 
 def mkdir_dataset():
     '''create the directory "datasets" under main directory'''
